@@ -689,6 +689,7 @@ require('lazy').setup({
         ts_ls = {},
         ruby_lsp = {},
         basedpyright = {},
+        ansiblels = {},
         --
 
         lua_ls = {
